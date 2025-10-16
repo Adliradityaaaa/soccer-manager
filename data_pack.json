@@ -1,0 +1,152 @@
+{
+  "name": "Data Pemain BRI Liga 1 2025/2026",
+  "author": "Adli",
+  "version": "1.0",
+  "description": "Patch data pemain BRI Liga 1 Indonesia untuk SM 2026",
+  "players": [
+    {
+      "name": "Gustavo Almeida",
+      "position": "FW",
+      "nationality": "Brasil",
+      "club": "Arema FC",
+      "age": 30,
+      "overall": 80
+    },
+    {
+      "name": "Ryo Matsumura",
+      "position": "MF",
+      "nationality": "Jepang",
+      "club": "Persija Jakarta",
+      "age": 26,
+      "overall": 80
+    },
+    {
+      "name": "Mariano Peralta",
+      "position": "FW",
+      "nationality": "Argentina",
+      "club": "Borneo FC",
+      "age": 28,
+      "overall": 80
+    },
+    {
+      "name": "Tyronne del Pino",
+      "position": "FW",
+      "nationality": "Spanyol",
+      "club": "Persib Bandung",
+      "age": 34,
+      "overall": 82
+    },
+    {
+      "name": "Valdeci",
+      "position": "MF",
+      "nationality": "Brasil",
+      "club": "Arema FC",
+      "age": 27,
+      "overall": 78
+    },
+    {
+      "name": "Carlos Eduardo",
+      "position": "MF",
+      "nationality": "Brasil",
+      "club": "Persija Jakarta",
+      "age": 29,
+      "overall": 81
+    },
+    {
+      "name": "Stefano Lilipaly",
+      "position": "MF",
+      "nationality": "Indonesia",
+      "club": "Borneo FC",
+      "age": 31,
+      "overall": 80
+    },
+    {
+      "name": "Alexis Messidoro",
+      "position": "MF",
+      "nationality": "Argentina",
+      "club": "Dewa United",
+      "age": 30,
+      "overall": 79
+    },
+    {
+      "name": "Ciro Alves",
+      "position": "MF",
+      "nationality": "Brasil",
+      "club": "Persib Bandung",
+      "age": 29,
+      "overall": 81
+    },
+    {
+      "name": "Rizky Pora",
+      "position": "MF",
+      "nationality": "Indonesia",
+      "club": "Barito Putera",
+      "age": 30,
+      "overall": 77
+    },
+    {
+      "name": "Marcelino Ferdinand",
+      "position": "MF",
+      "nationality": "Indonesia",
+      "club": "KMSK Deinze",
+      "age": 21,
+      "overall": 81
+    },
+    {
+      "name": "Wiliam Marcilio",
+      "position": "FW",
+      "nationality": "Brasil",
+      "club": "Arema FC",
+      "age": 27,
+      "overall": 79
+    },
+    {
+      "name": "Dimas Aryaguna",
+      "position": "DF",
+      "nationality": "Indonesia",
+      "club": "Arema FC",
+      "age": 22,
+      "overall": 75
+    },
+    {
+      "name": "Dwiki Mardiyanto",
+      "position": "MF",
+      "nationality": "Indonesia",
+      "club": "Arema FC",
+      "age": 23,
+      "overall": 74
+    },
+    {
+      "name": "Adi Satryo",
+      "position": "GK",
+      "nationality": "Indonesia",
+      "club": "Arema FC",
+      "age": 25,
+      "overall": 76
+    },
+    {
+      "name": "Paulinho Moccelin",
+      "position": "FW",
+      "nationality": "Brasil",
+      "club": "Arema FC",
+      "age": 26,
+      "overall": 78
+    },
+    {
+      "name": "Yann Motta",
+      "position": "DF",
+      "nationality": "Brasil",
+      "club": "Arema FC",
+      "age": 28,
+      "overall": 80
+    },
+    {
+      "name": "Adli Raditya",
+      "position": "FW",
+      "nationality": "Indonesia",
+      "club": "Persib Bandung",
+      "age": 17,
+      "overall": 98
+    }
+  ]
+}
