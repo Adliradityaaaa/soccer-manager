@@ -4,19 +4,127 @@
       "ID": 1,
       "Forename": "Gustavo",
       "Surname": "Almeida",
-      "ImageURL": ""
+      "ImageURL": "",
+      "Nationality": "BRA"
     },
     {
       "ID": 2,
       "Forename": "Ryo",
       "Surname": "Matsumura",
-      "ImageURL": ""
+      "ImageURL": "",
+      "Nationality": "JPN"
     },
     {
       "ID": 3,
+      "Forename": "Mariano",
+      "Surname": "Peralta",
+      "ImageURL": "",
+      "Nationality": "ARG"
+    },
+    {
+      "ID": 4,
+      "Forename": "Tyronne",
+      "Surname": "del Pino",
+      "ImageURL": "",
+      "Nationality": "ESP"
+    },
+    {
+      "ID": 5,
+      "Forename": "Valdeci",
+      "Surname": "",
+      "ImageURL": "",
+      "Nationality": "BRA"
+    },
+    {
+      "ID": 6,
+      "Forename": "Carlos",
+      "Surname": "Eduardo",
+      "ImageURL": "",
+      "Nationality": "BRA"
+    },
+    {
+      "ID": 7,
+      "Forename": "Stefano",
+      "Surname": "Lilipaly",
+      "ImageURL": "",
+      "Nationality": "IDN"
+    },
+    {
+      "ID": 8,
+      "Forename": "Alexis",
+      "Surname": "Messidoro",
+      "ImageURL": "",
+      "Nationality": "ARG"
+    },
+    {
+      "ID": 9,
+      "Forename": "Ciro",
+      "Surname": "Alves",
+      "ImageURL": "",
+      "Nationality": "BRA"
+    },
+    {
+      "ID": 10,
+      "Forename": "Rizky",
+      "Surname": "Pora",
+      "ImageURL": "",
+      "Nationality": "IDN"
+    },
+    {
+      "ID": 11,
+      "Forename": "Marcelino",
+      "Surname": "Ferdinand",
+      "ImageURL": "",
+      "Nationality": "IDN"
+    },
+    {
+      "ID": 12,
+      "Forename": "Wiliam",
+      "Surname": "Marcilio",
+      "ImageURL": "",
+      "Nationality": "BRA"
+    },
+    {
+      "ID": 13,
+      "Forename": "Dimas",
+      "Surname": "Aryaguna",
+      "ImageURL": "",
+      "Nationality": "IDN"
+    },
+    {
+      "ID": 14,
+      "Forename": "Dwiki",
+      "Surname": "Mardiyanto",
+      "ImageURL": "",
+      "Nationality": "IDN"
+    },
+    {
+      "ID": 15,
+      "Forename": "Adi",
+      "Surname": "Satryo",
+      "ImageURL": "",
+      "Nationality": "IDN"
+    },
+    {
+      "ID": 16,
+      "Forename": "Paulinho",
+      "Surname": "Moccelin",
+      "ImageURL": "",
+      "Nationality": "BRA"
+    },
+    {
+      "ID": 17,
+      "Forename": "Yann",
+      "Surname": "Motta",
+      "ImageURL": "",
+      "Nationality": "BRA"
+    },
+    {
+      "ID": 18,
       "Forename": "Adli",
       "Surname": "Raditya",
-      "ImageURL": ""
+      "ImageURL": "",
+      "Nationality": "IDN"
     }
   ],
   "ClubData": [
@@ -34,14 +142,38 @@
     },
     {
       "ID": 3,
+      "Name": "Borneo FC",
+      "ShortName": "BOR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
       "Name": "Persib Bandung",
       "ShortName": "PERB",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Name": "Dewa United",
+      "ShortName": "DEW",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Name": "Barito Putera",
+      "ShortName": "BAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Name": "KMSK Deinze",
+      "ShortName": "KMS",
       "ImageURL": ""
     }
   ],
   "LeagueData": [
     {
-      "ID": 28,
+      "ID": 1,
       "Name": "BRI Liga 1 2025/2026",
       "ImageURL": ""
     }
